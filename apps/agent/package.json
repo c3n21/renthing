@@ -21,7 +21,7 @@
     "@casium/walrus": "workspace:*",
     "@worldcoin/agentkit": "^0.2.0",
     "ethers": "^6.17.0",
-    "hono": "^4.12.31"
+    "hono": "^4.12.34"
   },
   "devDependencies": {
     "@types/node": "^26.1.1",
